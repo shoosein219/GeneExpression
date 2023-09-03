@@ -8,10 +8,12 @@ This repository includes a collection of scripts and tools for gene expression a
 - [Usage](#usage)
 - [Data](#data)
   - [Microarray](#microarray)
+  - [RNA Seq](#rna-seq)
 - [Code](#code)
   - [Preprocessing Scripts](#preprocessing-scripts)
   - [Analysis Scripts](#analysis-scripts)
 - [Results](#results)
+- [Documentation](#documentation)
 - [License](#license)
 - [Contributing](#contributing)
 - [Issues and Bug Reports](#issues-and-bug-reports)
@@ -29,7 +31,27 @@ pip install -r requirements.txt
 ## Usage
 
 ## Data
-
+### MicroArray
+- Raw Data
+- **Dataset Source:** [GEO - GSE10596](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE10596)
+- **Description:** This dataset includes gene expression profiles of Zea mays differentially expressed genes during water-deficit stage during heading time, a crucial time of productivity before tassel flowering.
+- Processed Data
+  
+### RNA Seq
+- Raw Data
+- Processed Data
+  
 ## Code
+### Preprocessing Scripts
+- Script 1
+- Script 2
+
+### Analysis Scripts
+- Script A
+- Script B
 
 ## Results
+
+## Documentation
+- [README](#readme)
+- [License](#license)
