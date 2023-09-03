@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ### MicroArray
 - Raw Data
 - **Dataset Source:** [GEO - GSE10596](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE10596)
-- **Description:** This dataset includes gene expression profiles of Zea mays differentially expressed genes during water-deficit stage during heading time, a crucial time of productivity before tassel flowering.
+- **Description:** This dataset includes gene expression profiles of _Zea mays_ differentially expressed genes under control and water-deficit conditions during _Z. mays_ heading time, a crucial time of productivity before tassel flowering.
 - Processed Data
   
 ### RNA Seq
