@@ -7,7 +7,7 @@ This repository includes a collection of scripts and tools for gene expression a
 - [Installation](#installation)
 - [Usage](#usage)
 - [Data](#data)
-- [Documentation](#documentation)
+- [Code](#code)
 - [Results](#results)
 - [License](#license)
 - [Contributing](#contributing)
@@ -18,11 +18,12 @@ This repository includes a collection of scripts and tools for gene expression a
 To use this toolkit, you'll need Python 3.7 or higher. Clone the repository and install the required dependencies using pip:
 
 ```bash
-git clone https://github.com/yourusername/GeneExpressionAnalysisToolkit.git
-cd GeneExpressionAnalysisToolkit
+git clone https://github.com/shoosein219/GeneExpression.git
+cd GeneExpression
 pip install -r requirements.txt
-
+```
 ## Usage
 
 ## Data
 
+## Documentation
