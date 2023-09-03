@@ -34,12 +34,13 @@ pip install -r requirements.txt
 ### MicroArray
 - Raw Data
 - **Dataset Source:** [GEO - GSE10596](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE10596)
-- **Description:** This dataset includes gene expression profiles of _Zea mays_ differentially expressed genes under control and water-deficit conditions during _Z. mays_ heading time, a crucial time of productivity before tassel flowering.
-- Processed Data
+- **Description:** This dataset investigates the gene expression profiles of _Zea mays_, particularly how genes are differentially expressed under control and water-deficit conditions during _Z. mays_ heading time, a crucial time of productivity before tassel flowering.
+
   
 ### RNA Seq
 - Raw Data
-- Processed Data
+- **Dataset Source:** [GEO - GSE61418](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61418)
+- **Description:** This dataset evaluates how innoculation with pathogenic bacteria _Vibrio vulnificus_changes influences gene expression profiles of _Arabidopsis thaliana_ over times (0-72 hours after infection).
   
 ## Code
 ### Preprocessing Scripts
