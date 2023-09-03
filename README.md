@@ -7,12 +7,16 @@ This repository includes a collection of scripts and tools for gene expression a
 - [Installation](#installation)
 - [Usage](#usage)
 - [Data](#data)
+  - [Microarray](#microarray)
 - [Code](#code)
+  - [Preprocessing Scripts](#preprocessing-scripts)
+  - [Analysis Scripts](#analysis-scripts)
 - [Results](#results)
 - [License](#license)
 - [Contributing](#contributing)
 - [Issues and Bug Reports](#issues-and-bug-reports)
 
+  
 ## Installation
 
 To use this toolkit, you'll need Python 3.7 or higher. Clone the repository and install the required dependencies using pip:
@@ -26,4 +30,6 @@ pip install -r requirements.txt
 
 ## Data
 
-## Documentation
+## Code
+
+## Results
