@@ -20,56 +20,56 @@ This repository includes a collection of scripts and tools for gene expression a
 #
 #  
 ## Installation
-#
+
 To use this toolkit, you'll need Python 3.7 or higher. Clone the repository and install the required dependencies using pip:
-#
+
 ```bash
 git clone https://github.com/shoosein219/GeneExpression.git
 cd GeneExpression
 pip install -r requirements.txt
 ```
 ## Usage
-#
-## Data
-#
+
+## Data Source
+
 ### MicroArray
 - Raw Data
 - **Dataset Source:** [GEO - GSE10596](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE10596)
 - **Description:** This dataset investigates the gene expression profiles of _Zea mays_, particularly how genes are differentially expressed under control and water-deficit conditions during _Z. mays_ heading time, a crucial time of productivity before tassel flowering.
-#
+
 ### RNA Seq
 - Raw Data
 - **Dataset Source:** [GEO - GSE61418](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61418)
 - **Description:** This dataset evaluates how innoculation with pathogenic bacteria _Vibrio vulnificus_changes influences gene expression profiles of _Arabidopsis thaliana_ over times (0-72 hours after infection).
-#
-#
+
+
 ## Code
-#
-#
+
 ### Preprocessing Scripts
-#### Microarray
+#
+### Microarray
 - **Script 1 :: _Preprocessing_** from microarray output (.cel)
   [TXT_file_R_scrpt](http://localhost:8888/edit/Desktop/microarrayExample/Rcode_convert_CEL_file.txt)
 - **Script 2 :: _Preprocessing_** formatted data
   [ipynb_PY_script](http://localhost:8888/notebooks/Desktop/microarrayExample/microarray_gene_expression_data_preprocessing.ipynb)
-#
-#### RNA Seq
+
+### RNA Seq
 - **Script A :: _Preprocessing_**
-#
-#
+
+
 #
 ### Analysis Scripts
 #
-#### Microarray
+### Microarray
 - **Script 3 :: _Data Analysis and Visualization_** [ipynb_PY_script_boxpl_hist](http://localhost:8888/notebooks/Desktop/microarrayExample/microarray_gene_expression_data_analysis_viz.ipynb)
 - 
-#
-#
+
+### RNA Seq
+
 #
 ## Results
-#
-#
-#
+
 ## Documentation
+
 - [README](#readme)
 - [License](#license)
