@@ -57,7 +57,7 @@ pip install -r requirements.txt
   
 ### Analysis Scripts
 #### Microarray
-- **Script 3 :: _Data Analysis and Visulaization_** [ipynb_PY_script_boxpl_hist] (http://localhost:8888/notebooks/Desktop/microarrayExample/microarray_gene_expression_data_analysis_viz.ipynb)
+- **Script 3 :: _Data Analysis and Visualization_** [ipynb_PY_script_boxpl_hist](http://localhost:8888/notebooks/Desktop/microarrayExample/microarray_gene_expression_data_analysis_viz.ipynb)
 - 
 
 ## Results
