@@ -36,7 +36,7 @@ pip install -r requirements.txt
 - **Dataset Source:** [GEO - GSE10596](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE10596)
 - **Description:** This dataset investigates the gene expression profiles of _Zea mays_, particularly how genes are differentially expressed under control and water-deficit conditions during _Z. mays_ heading time, a crucial time of productivity before tassel flowering.
 
-  
+
 ### RNA Seq
 - Raw Data
 - **Dataset Source:** [GEO - GSE61418](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61418)
@@ -44,12 +44,20 @@ pip install -r requirements.txt
   
 ## Code
 ### Preprocessing Scripts
-- Script 1
-- Script 2
 
+#### Microarray
+- **Script 1 :: _Preprocessing_** from microarray output (.cel)
+  [TXT_file_R_scrpt](http://localhost:8888/edit/Desktop/microarrayExample/Rcode_convert_CEL_file.txt)
+- **Script 2 :: _Preprocessing_** formatted data
+  [ipynb_PY_script](http://localhost:8888/notebooks/Desktop/microarrayExample/microarray_gene_expression_data_preprocessing.ipynb)
+
+#### RNA Seq
+- **Script A :: _Preprocessing_**
+
+  
 ### Analysis Scripts
-- Script A
-- Script B
+#### Microarray
+- **Script 3 :: _
 
 ## Results
 
