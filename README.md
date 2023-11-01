@@ -1,5 +1,6 @@
 # GeneExpression
 #
+# ** work in progress: last updated 12 Sept 2023
 ## Description
 This repository includes a collection of scripts and tools for gene expression analyses. It provides a comprehesive of functions for preprocessing, visualization, and conducting differential gene expression analyses providing the code, data, and documentation necessary. Whether you're working with RNA-Seq or microarray data, this toolkit simplifies the process and helps you build insights into gene expression patterns.
 #
