@@ -63,6 +63,8 @@ pip install -r requirements.txt
 #
 ### Microarray
 - **Script 3 :: _Data Analysis and Visualization_** [ipynb_PY_script_boxpl_hist](http://localhost:8888/notebooks/Desktop/microarrayExample/microarray_gene_expression_data_analysis_viz.ipynb)
+
+```bash
 - #   Data plots for selected GEO samples
 library(GEOquery)
 library(limma)
@@ -102,7 +104,7 @@ ump <- umap(t(ex), n_neighbors = 2, random_state = 123)
 plot(ump$layout, main="UMAP plot, nbrs=2", xlab="", ylab="", pch=20, cex=1.5)
 library("maptools")  # point labels without overlaps
 pointLabel(ump$layout, labels = rownames(ump$layout), method="SANN", cex=0.6)
-
+```
 
 ### RNA Seq
 
